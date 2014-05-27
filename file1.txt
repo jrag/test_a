@@ -12,6 +12,7 @@ this is a test
     "url": "https://github.dowjones.net/commerce-systems/swf.activity.server.git"
   },
   "author": "Gary Schwartzbard",
+  "new line aaaaa",
   "license": "None",
   "dependencies": {
     "bluebird": "3",
@@ -21,7 +22,6 @@ this is a test
     "facade.billing": "billing ",
     "facade.crm": "git+https://github.dowjones.net/commerce-systems/facade.crm#develop",
     "swf.activity.create-crm-account": "git+https://github.dowjones.net/commerce-systems/swf.activity.create-crm-account.git#develop",
-    "swf.activity.create-billing-account": "git+https://github.dowjones.net/commerce-systems/swf.activity.create-billing-account.git#develop"
   },
   "devDependencies": {
     "gulp": "^3.6.2",
