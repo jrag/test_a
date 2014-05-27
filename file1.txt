@@ -12,16 +12,16 @@ this is a test
     "url": "https://github.dowjones.net/commerce-systems/swf.activity.server.git"
   },
   "author": "Gary Schwartzbard",
+  "new line aaaaa",
   "license": "None",
   "dependencies": {
-    "bluebird": "^1.2.2",
+    "bluebird": "555.666",
     "request": "^2.34.0",
     "swf.lib.core": "git+https://github.dowjones.net/commerce-systems/swf.lib.core.git#master",
     "facade.order": "git+https://github.dowjones.net/commerce-systems/facade.order#develop",
     "facade.billing": "git+https://github.dowjones.net/commerce-systems/facade.billing#develop",
     "facade.crm": "git+https://github.dowjones.net/commerce-systems/facade.crm#develop",
     "swf.activity.create-crm-account": "git+https://github.dowjones.net/commerce-systems/swf.activity.create-crm-account.git#develop",
-    "swf.activity.create-billing-account": "git+https://github.dowjones.net/commerce-systems/swf.activity.create-billing-account.git#develop"
   },
   "devDependencies": {
     "gulp": "^3.6.2",
