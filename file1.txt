@@ -14,11 +14,11 @@ this is a test
   "author": "Gary Schwartzbard",
   "license": "None",
   "dependencies": {
-    "bluebird": "^1.2.2",
+    "bluebird": "3",
     "request": "^2.34.0",
     "swf.lib.core": "git+https://github.dowjones.net/commerce-systems/swf.lib.core.git#master",
     "facade.order": "git+https://github.dowjones.net/commerce-systems/facade.order#develop",
-    "facade.billing": "git+https://github.dowjones.net/commerce-systems/facade.billing#develop",
+    "facade.billing": "billing ",
     "facade.crm": "git+https://github.dowjones.net/commerce-systems/facade.crm#develop",
     "swf.activity.create-crm-account": "git+https://github.dowjones.net/commerce-systems/swf.activity.create-crm-account.git#develop",
     "swf.activity.create-billing-account": "git+https://github.dowjones.net/commerce-systems/swf.activity.create-billing-account.git#develop"
